@@ -1,6 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,400italic,700);
-
-//Colors:
 /*---------
 rgb(255,255,255)
 rgb(0,0,0)
@@ -15,15 +13,12 @@ Bitter
 FontAwesome
 
 ----------*/
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: "Bitter";
 }
-
-$max-width: 80em;
 
 #vue {
   display: grid;
@@ -67,3 +62,5 @@ img {
   height: 200px;
   width: auto;
 }
+
+/*# sourceMappingURL=styles.css.map */
